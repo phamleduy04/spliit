@@ -203,7 +203,8 @@
     "creating": "创建中……",
     "save": "保存",
     "saving": "保存中……",
-    "cancel": "取消"
+    "cancel": "取消",
+    "reimbursement": "报销"
   },
   "ExpenseDocumentsInput": {
     "TooBigToast": {
@@ -292,15 +293,6 @@
   },
   "Settings": {
     "title": "设定"
-  },
-  "Locale": {
-    "en-US": "English",
-    "fi": "Suomi",
-    "fr-FR": "Français",
-    "es": "Español",
-    "de-DE": "Deutsch",
-    "zh-CN": "Chinese (Simplified)",
-    "ru-RU": "Русский"
   },
   "Share": {
     "title": "分享",

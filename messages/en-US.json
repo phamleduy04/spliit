@@ -203,7 +203,8 @@
     "creating": "Creating…",
     "save": "Save",
     "saving": "Saving…",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "reimbursement": "Reimbursement"
   },
   "ExpenseDocumentsInput": {
     "TooBigToast": {
@@ -292,15 +293,6 @@
   },
   "Settings": {
     "title": "Settings"
-  },
-  "Locale": {
-    "en-US": "English",
-    "fi": "Suomi",
-    "fr-FR": "Français",
-    "es": "Español",
-    "de-DE": "Deutsch",
-    "zh-CN": "Chinese (Simplified)",
-    "ru-RU": "Русский"
   },
   "Share": {
     "title": "Share",
