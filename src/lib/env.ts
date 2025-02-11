@@ -45,6 +45,10 @@ const envSchema = z
       .string()
       .optional()
       .default('gpt-4-turbo'),
+    GLOBAL_GROUPS_ENABLE: z.preprocess(
+      interpretEnvVarAsBool,
+      z.boolean().default(false),
+    ),
   })
   .superRefine((env, ctx) => {
     if (
